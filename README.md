@@ -1,2 +1,2 @@
 # green-chess
-Just study playing around with UCI protocol
+Just playing around chess algos
